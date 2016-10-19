@@ -1,5 +1,5 @@
 # test
-Usefgdfgdfd to testd <strong>things</strong>
+Usefgdfgdfd to testsd <strong>things</strong>
 
 ## asdfadsfsf
 i. adsfdas
