@@ -1,5 +1,5 @@
 # test
-Usefgdfgdfd to test <strong>things</strong>
+Usefgdfgdfd to testd <strong>things</strong>
 
 ## asdfadsfsf
 i. adsfdas
@@ -10,15 +10,6 @@ iii. asdfadsaf
     (b) asdfadsfa
     (c) asdfdas
     (d) asdfas
-    dfgdfgdf
-    
-    dfg
-    df
-kjkljkljlkjkljklj
-setsdgsd
-sdfgsdgkj
-
-hkjhjkhjkhjkhjk
 
 1. One
 2.  Two
