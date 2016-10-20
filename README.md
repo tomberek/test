@@ -1,5 +1,5 @@
 # test
-Usefgdfgdfd to testsdx <strong>things</strong>
+Usefgdfgdfd to test with OTP <strong>things</strong>
 
 ## asdfadsfsf
 i. adsfdas
