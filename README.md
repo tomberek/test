@@ -3,7 +3,7 @@ Usefgdfgdfd to test with OTP <strong>things</strong>
 
 ## asdfadsfsf
 i. adsfdas
-ii. sadfdsafadfgsdfgdsfsdfsdfsdf
+ii. sadfdsafadfgsdf
 iii. asdfadsaf
 #. asdfadsfa
     (a) asdfadsf
@@ -13,7 +13,7 @@ iii. asdfadsaf
 
 1. One
 2.  Two
-    A.  Alpha
+    A.  Alp
     B.  Beta
 3.  Three
     i.  un
@@ -34,7 +34,7 @@ procedures and activities. See [sdfds](#foo)
 
 ### (b) Title.
 
-These rules may be known and cited as the Rules for Courts-Martial
+These ruleskldsvdkj may be known and cited as the Rules for Courts-Martial
 
 (R.C.M.). 
 
